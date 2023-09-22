@@ -453,9 +453,10 @@ height: 100vh;
   opacity: 1;
  }
 
-.ProductViewer-button{
+/* .ProductViewer-button{
 
-}
+} */
+
 .product-image-main{
   width: 275px;
     border-radius: 15px;

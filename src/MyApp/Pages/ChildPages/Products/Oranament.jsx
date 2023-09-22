@@ -18,4 +18,4 @@ const Oranament = () => {
     )
 }
 
-export default Oranament
+export default Oranament;

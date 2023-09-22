@@ -36,7 +36,7 @@ const CartPage = () => {
             </svg>
           </button>
         </div>
-        <label className="price small">$23.99</label>
+        <label className="price small">23.99 <i class="fa-solid fa-indian-rupee-sign"></i></label>
       </div>
     </div>
   </div>
@@ -53,14 +53,14 @@ const CartPage = () => {
     <label className="title">Checkout</label>
     <div className="details">
       <span>Your cart subtotal:</span>
-      <span>47.99$</span>
+      <span>47.99 <i class="fa-solid fa-indian-rupee-sign"></i></span>
       <span>Discount through applied coupons:</span>
-      <span>3.99$</span>
+      <span>3.99 <i class="fa-solid fa-indian-rupee-sign"></i></span>
       <span>Shipping fees:</span>
-      <span>4.99$</span>
+      <span>4.99 <i class="fa-solid fa-indian-rupee-sign"></i></span>
     </div>
     <div className="checkout--footer">
-      <label className="price"><sup>$</sup>57.99</label>
+      <label className="price"><sup><i class="fa-solid fa-indian-rupee-sign"></i></sup>57.99</label>
       <button className="checkout-btn">Checkout</button>
     </div>
   </div>
