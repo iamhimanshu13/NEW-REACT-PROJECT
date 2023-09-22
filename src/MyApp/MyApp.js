@@ -44,8 +44,7 @@ const MyApp = () => {
           <Route path="/Silver" element={<Silver />} />
           <Route path="/Rings" element={<Rings />} />
           <Route path="/ContactUs" element={<ContactUs />} />
-          <Route path="/ProductDetailPage" element={<ProductDetailPage />} />
-          
+          <Route path="/ProductDetailPage" element={<ProductDetailPage />} />       
 
         </Routes>
         <Footer />

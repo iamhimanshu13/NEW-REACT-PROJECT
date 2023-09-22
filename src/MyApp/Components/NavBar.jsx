@@ -123,7 +123,7 @@ const NavBar = () => {
         <Link to="/ContactUs" className="nav-link contact-link">
           CONTACT
         </Link>
-        <Link to="" className="nav-link cart-link">
+        <Link to="/cartpage" className="nav-link cart-link">
           CART 
         <i style={{ color: "black" , marginLeft:"5px" , fontSize:"13px"}} className="fa-solid fa-cart-shopping"></i>
         </Link>
